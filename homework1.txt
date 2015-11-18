@@ -1,0 +1,9915 @@
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 62
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 660
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 62
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 653
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 654
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 661
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 660
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 62
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 649
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 660
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 659
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 32
+light = 653
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 649
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 660
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 660
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 649
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 652
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 650
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 653
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 651
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 61
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 58
+pir = 1
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 655
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 658
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 657
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 58
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 654
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 61
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 60
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 659
+uv = 59
+pir = 0
+ms = 0
+The Sensors Configurations as follow:
+temp>85,sleep=1
+humi>100,sleep=1
+light<200,servo=90
+uv>1023,sleep=1
+pir=2,buzzer=1
+ms<600,relay=1
+
+The Sensors Value as follow:
+temp = 21
+humi = 31
+light = 656
+uv = 60
+pir = 0
+ms = 0
