@@ -7,13 +7,15 @@
 #include <string.h>
 #include <TH02_dev.h>
 #include <SD.h>
+#include <Wire.h>
+#include <RTClib.h>
 
 #define CMDSTR_MAX_LEN (128)
 #define LOW_TEMP       (10)
 #define NOM_TEMP       (25) 
 #define HIGH_TEMP      (40)
 
-#define SENSOR_COUNT   (6)
+#define SENSOR_COUNT   (4)
 #define ACTUATOR_COUNT (4)
 #define VAR1_COUNT     (SENSOR_COUNT+1)
 #define VAR2_COUNT     (ACTUATOR_COUNT+1)
@@ -59,19 +61,66 @@ const int pinRelay = 5;
 const int pinPIR = 7;
 const int pinServo = 6;
 Servo myservo;
+//radon sensor pin
+const int a = 2;
+const int b = 3;
+const int c = A4;
+const int d = 5;
+const int e = 6;
+const int f = 7;
+const int g = 8;
+const int digit1 = A1;
+const int digit2 = A0;
+const int digit3 = 11;
+const int digit4 = 12;
 
-const char* SerialVarList1[] = { "temp", "humi", "light", "uv", "pir", "ms","ssid"};
+RTC_Millis RTC;
+String t;
+int vardg1 = 0;
+int vardg2 = 0;
+
+int segments[]={
+  0,0,0,0,0,0,0};
+  
+int leddigits[] = {
+  1,1,1,1,1,1,1, // space
+  1,1,1,0,0,0,1, // L
+  0,0,0,0,0,0,1, // 0
+  1,0,0,1,1,1,1, // 1
+  0,0,1,0,0,1,0, // 2
+  0,0,0,0,1,1,0, // 3
+  1,0,0,1,1,0,0, // 4
+  0,1,0,0,1,0,0, // 5 or S
+  0,1,0,0,0,0,0, // 6
+  0,0,0,1,1,1,1, // 7
+  0,0,0,0,0,0,0, // 8
+  0,0,0,1,1,0,0 // 9
+};
+unsigned long duration;
+
+char ledvalues[] = " L0123456789";
+char leddisp[] = "  ";
+int i = 0;
+int j = 0;
+int found = 0;
+int ledvaluecnt = 0;
+
+
+const char* SerialVarList1[] = { "temp", "humi", "light", "uv", "radon","pir", "ms","ssid"};
 const char* SerialVarList2[] = { "relay", "buzzer", "servo", "sleep", "psw"};
 enum ACTUATOR {RELAY=0,BUZZER,SERVO,SLEEP};
 enum SENSOR {TEMPER=0,HUMI,LIGHT,UV,PIR,MS};
 
 File myFile;
+String line;
+String date;
+String filename;
 
 pgetSensorValue getSensorValueList[]={
   getTempSensorValue, 
   getHumiSensorValue, 
   getLightSensorValue, 
-  getUVSensorValue, 
+  getUVSensorValue,
   getPIRSensorValue, 
   getMoistureSensorValue
 };
@@ -90,7 +139,7 @@ int SensorConfig[][4] = {       // value, condition, Actuator, action
 };
 
 void printSettings(void){
-
+/*
     // Print output to serial output
   Serial.println("The Sensors Configurations as follow:");
   for(int i=0; i<SENSOR_COUNT;i++){
@@ -107,41 +156,31 @@ void printSettings(void){
   // Serial.print(ssid);
   // Serial.print(", PSW = ");
   // Serial.println(psw);
-  
+  */
   Serial.println("The Sensors Value as follow:");
   for(int i=0; i<SENSOR_COUNT;i++){
-    Serial.print(SerialVarList1[i]);
     
+    Serial.print(SerialVarList1[i]);
     Serial.print(" = ");
-    Serial.println(getSensorValueList[i]());   
+    if (i<=4){
+    Serial.println(getSensorValueList[i]()); 
+    } else {
+      Serial.println(getRadonSensorValue());
+    }  
   }
 
-
+    line = t;
+    filename = date+".txt";
     // Print output to file
-    myFile = SD.open("homework1.txt", FILE_WRITE);
-    myFile.println("The Sensors Configurations as follow:");
-  for(int i=0; i<SENSOR_COUNT;i++){
-    myFile.print(SerialVarList1[i]);
-    myFile.write((char)SensorConfig[i][1]);
-    myFile.print(SensorConfig[i][0]);
-    myFile.print(',');
-    myFile.print(SerialVarList2[SensorConfig[i][2]]);
-    myFile.print('=');
-    myFile.println(SensorConfig[i][3]);    
+    myFile = SD.open(filename, FILE_WRITE);
+  for(int i=0; i<SENSOR_COUNT;i++){ //SENSOR_COUNT = 4
+    //myFile.print(SerialVarList1[i]);
+    //myFile.print(" = ");
+    //myFile.println(getSensorValueList[i]()); 
+      line = line + ","+ String(getSensorValueList[i]());  
   }
-  myFile.print('\n');
-  // Serial.print("SSID = ");
-  // Serial.print(ssid);
-  // Serial.print(", PSW = ");
-  // Serial.println(psw);
-  
-  myFile.println("The Sensors Value as follow:");
-  for(int i=0; i<SENSOR_COUNT;i++){
-    myFile.print(SerialVarList1[i]);
-    myFile.print(" = ");
-    myFile.println(getSensorValueList[i]());   
-  }
-
+  line = line +","+getRadonSensorValue()+"\n";
+  myFile.println(line);
   myFile.close();
 }
 
@@ -267,6 +306,12 @@ int parsecmd(char *cmd){
   }
     
   return 1;
+}
+
+//get Radon Sensor Value
+String getRadonSensorValue() {
+  String temp = String(vardg2)+"."+String(vardg1);
+  return temp;
 }
 
 
@@ -426,6 +471,7 @@ void setup()
   Serial.begin(9600);
     // set up the LCD's number of columns and rows:
     lcd.begin(16, 2);    
+    RTC.begin(DateTime(__DATE__,__TIME__));
     
     WiFi_Init();
       
@@ -434,6 +480,17 @@ void setup()
     pinMode(pinBuzzer,OUTPUT);
     pinMode(pinEncoder1,INPUT);
     pinMode(pinEncoder2,INPUT);
+    
+    pinMode(digit1, INPUT); // Digit 1 strobe
+  pinMode(digit2, INPUT); // Digit 2 strobe
+  pinMode(a, INPUT); // Segment A
+  pinMode(b, INPUT); // Segment B
+  pinMode(c, INPUT); // Segment C
+  pinMode(d, INPUT); // Segment D
+  pinMode(e, INPUT); // Segment E
+  pinMode(f, INPUT); // Segment F
+  pinMode(g, INPUT); // Segment G
+    
     myservo.attach(pinServo);
     myservo.write(0);
     
@@ -547,7 +604,83 @@ void loop()
   //  status = WL_IDLE_STATUS;
   //  isSSIDreconfiged = false;
   // }
-    
+  
+  DateTime now = RTC.now();
+  t = String(2000+now.year())+String(now.month())+String(now.day())+String(now.hour())+
+  String(now.minute())+String(now.second());
+  date = String(2000+now.year())+String(now.month())+String(now.day());
+  
+    /*
+
+     Digit 1
+
+   */
+
+  duration = pulseIn(2, LOW);
+
+  segments[0] = digitalRead(a);
+  segments[1] = digitalRead(b);
+  segments[2] = digitalRead(c);
+  segments[3] = digitalRead(d);
+  segments[4] = digitalRead(e);
+  segments[5] = digitalRead(f);
+  segments[6] = digitalRead(g);
+  
+  ledvaluecnt = 0;
+  for (i=0;i<sizeof(leddigits)/sizeof(int);i=i+7)
+  {
+    found = 1;
+    for (j=0;j<7;j++)
+    {
+      if (segments[j] != leddigits[i+j]){
+        found = 0;
+        break;
+      }
+    }
+    if (found == 1)
+    {
+      leddisp[0] = ledvalues[ledvaluecnt];
+      vardg1 = ledvalues[ledvaluecnt];
+      break;
+    }
+    ledvaluecnt++;
+  } 
+
+  /*
+   Digit 2
+   */
+  duration = pulseIn(3, LOW);
+  segments[0] = digitalRead(a);
+  segments[1] = digitalRead(b);
+  segments[2] = digitalRead(c);
+  segments[3] = digitalRead(d);
+  segments[4] = digitalRead(e);
+  segments[5] = digitalRead(f);
+  segments[6] = digitalRead(g);
+  
+  ledvaluecnt = 0;
+  for (i=0;i<sizeof(leddigits)/sizeof(int);i=i+7)
+  {
+    found = 1;
+    for (j=0;j<7;j++)
+    {
+      if (segments[j] != leddigits[i+j]){
+        found = 0;
+        break;
+      }
+    }
+    if (found == 1)
+    {
+      leddisp[1] = ledvalues[ledvaluecnt];
+      vardg2 = ledvalues[ledvaluecnt];
+      if (leddisp[1] != ' ')
+      {
+        Serial.println(leddisp);
+        break;
+      }
+    }
+    ledvaluecnt++;
+  } 
   printSettings();
 }
 
