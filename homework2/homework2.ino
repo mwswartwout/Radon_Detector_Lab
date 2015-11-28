@@ -114,7 +114,8 @@ enum SENSOR {TEMPER=0,HUMI,LIGHT,UV,PIR,MS};
 File myFile;
 String line;
 String date;
-String filename;
+String temp;
+//String filename;
 
 pgetSensorValue getSensorValueList[]={
   getTempSensorValue, 
@@ -170,8 +171,10 @@ void printSettings(void){
   }
 
     line = t;
-    filename = date+".txt";
+    temp = date+".txt";
     // Print output to file
+    char filename[temp.length()+1];
+    temp.toCharArray(filename,sizeof(filename));
     myFile = SD.open(filename, FILE_WRITE);
   for(int i=0; i<SENSOR_COUNT;i++){ //SENSOR_COUNT = 4
     //myFile.print(SerialVarList1[i]);
