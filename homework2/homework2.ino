@@ -15,7 +15,7 @@
 #define NOM_TEMP       (25) 
 #define HIGH_TEMP      (40)
 
-#define SENSOR_COUNT   (4)
+#define SENSOR_COUNT   (5)
 #define ACTUATOR_COUNT (4)
 #define VAR1_COUNT     (SENSOR_COUNT+1)
 #define VAR2_COUNT     (ACTUATOR_COUNT+1)
@@ -50,13 +50,13 @@ const int THSensorIndex = 3;
 const int LocalIPIndex = 4;
 
 const int pinSound = A0;
-const int pinMoisture = A1;
+//const int pinMoisture = A1;
 const int pinLight = A2;
 const int pinUV = A3;
 const int pinButton =0;
 const int pinEncoder1 = 2;
 const int pinEncoder2 = 3;
-const int pinBuzzer = 4;
+//const int pinBuzzer = 4;
 const int pinRelay = 5;
 const int pinPIR = 7;
 const int pinServo = 6;
@@ -123,12 +123,12 @@ pgetSensorValue getSensorValueList[]={
   getLightSensorValue, 
   getUVSensorValue,
   getPIRSensorValue, 
-  getMoistureSensorValue
+  //getMoistureSensorValue
 };
 
 int SensorValue[SENSOR_COUNT];
                                       
-pActuatorHandler ActuatorHandlerList[]={RelayHandle, BuzzerHandle, ServoHandle, SleepHandle};
+//pActuatorHandler ActuatorHandlerList[]={RelayHandle, BuzzerHandle, ServoHandle, SleepHandle};
 
 int SensorConfig[][4] = {       // value, condition, Actuator, action
   {85,  '>', SLEEP,  1},        //Temperature
@@ -163,30 +163,42 @@ void printSettings(void){
     
     Serial.print(SerialVarList1[i]);
     Serial.print(" = ");
-    if (i<=4){
+    if (i<4){
     Serial.println(getSensorValueList[i]()); 
     } else {
       Serial.println(getRadonSensorValue());
     }  
   }
-
     line = t;
     temp = date+".txt";
+    Serial.println(temp);
+    
     // Print output to file
-    char filename[temp.length()+1];
-    temp.toCharArray(filename,sizeof(filename));
+    char filename[temp.length()];
+    temp.toCharArray(filename,sizeof(filename)+1);
+    Serial.println(filename);
+    
     myFile = SD.open(filename, FILE_WRITE);
-  for(int i=0; i<SENSOR_COUNT;i++){ //SENSOR_COUNT = 4
+    if (myFile) {
+      Serial.println("waiting to date.txt ...");
+    }else {
+      Serial.println("error opening date.txt");
+    }
+    
+    
+  for(int i=0; i<SENSOR_COUNT-1;i++){ //SENSOR_COUNT = 4
     //myFile.print(SerialVarList1[i]);
     //myFile.print(" = ");
     //myFile.println(getSensorValueList[i]()); 
       line = line + ","+ String(getSensorValueList[i]());  
   }
+  
   line = line +","+getRadonSensorValue()+"\n";
   myFile.println(line);
   myFile.close();
 }
 
+/*
 void SerialRequestHandler(){
   if(cmdstrInput(cmdstr)){
      Serial.println(cmdstr);
@@ -222,6 +234,7 @@ void SerialRequestHandler(){
     }
   }
 }
+*/
 
 int parsecmd(char *cmd){
   char* cp = cmd;
@@ -337,9 +350,9 @@ int getHumiSensorValue(){
 }
 
 //get Grove-Moisture Sensor value
-int getMoistureSensorValue(){
-  return (SensorValue[MS] = analogRead(pinMoisture));
-}
+//int getMoistureSensorValue(){
+  //return (SensorValue[MS] = analogRead(pinMoisture));
+//}
 
 //get Grove-Light Sensor value
 int getLightSensorValue(){
@@ -375,7 +388,7 @@ void displayTHSensorValue(){
   lcd.setCursor(numCols-2,1);
   lcd.print("->");
 }
-
+/*
 //display Grove-Moisture Sensor value on LCD
 void displayMoistureSensorValue(){
   lcd.clear();
@@ -389,6 +402,7 @@ void displayMoistureSensorValue(){
   lcd.setCursor(numCols-2,1);
   lcd.print("->");
 }
+*/
 
 //display Grove-Light Sensor value on LCD
 void displayLightSensorValue(){
@@ -449,6 +463,7 @@ void RelayHandle(int val){
     digitalWrite(pinRelay,LOW);
   }
 }
+/*
 void BuzzerHandle(int val){
   if(!(val==0 || val==1)) return;
   if(val==1)
@@ -456,6 +471,7 @@ void BuzzerHandle(int val){
   else if(val==0)
     digitalWrite(pinBuzzer,LOW);
 }
+*/
 void ServoHandle(int val){
   static unsigned long curt = millis();
   if(millis()-curt > 1000){
@@ -473,14 +489,15 @@ void setup()
 {
   Serial.begin(9600);
     // set up the LCD's number of columns and rows:
-    lcd.begin(16, 2);    
+    //lcd.begin(16, 2);    
     RTC.begin(DateTime(__DATE__,__TIME__));
+   
     
     WiFi_Init();
       
     pinMode(pinButton,INPUT);
     pinMode(pinRelay,OUTPUT);
-    pinMode(pinBuzzer,OUTPUT);
+    //pinMode(pinBuzzer,OUTPUT);
     pinMode(pinEncoder1,INPUT);
     pinMode(pinEncoder2,INPUT);
     
@@ -497,7 +514,7 @@ void setup()
     myservo.attach(pinServo);
     myservo.write(0);
     
-    printSettings();
+    //printSettings();
     
     Timer1.initialize(20000); // set a timer of length 2000 microseconds
     Timer1.attachInterrupt(timerIsr); // attach the service routine here
@@ -508,15 +525,8 @@ void setup()
         Serial.println("initialization failed!");
         return;
     }
-    Serial.println("initialization completed.");
-
-    myFile = SD.open("homework1.txt", FILE_WRITE);
-    if (myFile) {
-        myFile.close();
-    }
-    else {
-        Serial.println("error opening homework1.txt");
-    }
+    Serial.println("initialization completed.");    
+    
 }
 
 void EncoderISR(){
@@ -545,7 +555,7 @@ void displayMenu(){
         displayTHSensorValue();
         break;     
       case(MoistureSensorIndex):
-        displayMoistureSensorValue();
+        //displayMoistureSensorValue();
         break;
       case(UVSensorIndex):
         displayUVSensorValue();
@@ -593,14 +603,14 @@ void TempColorHandle(){
     
 void loop() 
 {
-  TempColorHandle();
+  //TempColorHandle();
   
-  displayMenu();
+  //displayMenu();
   
-  SerialRequestHandler();
+  //SerialRequestHandler();
    
   //if button pressed, backlight transforms
-  if(isButtonPressed()) isBackLightOn = !isBackLightOn;
+  //if(isButtonPressed()) isBackLightOn = !isBackLightOn;
   
   //if reconfig WiFi SSID,reconnect.
   //if(isSSIDreconfiged==true) {
@@ -609,9 +619,9 @@ void loop()
   // }
   
   DateTime now = RTC.now();
-  t = String(2000+now.year())+String(now.month())+String(now.day())+String(now.hour())+
+  t = String(now.year())+String(now.month())+String(now.day())+String(now.hour())+
   String(now.minute())+String(now.second());
-  date = String(2000+now.year())+String(now.month())+String(now.day());
+  date = String(now.year())+String(now.month())+String(now.day());
   
     /*
 
@@ -684,7 +694,11 @@ void loop()
     }
     ledvaluecnt++;
   } 
+  
   printSettings();
+  
+  delay(3000);
+  
 }
 
 int cmdstrInput(char *str){
